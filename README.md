@@ -23,6 +23,7 @@ Each CSV file includes:
 -File names follow the format: BuildingName_YYYY-MM.csv
 
 🛠️ Methodology (Tasks 1–5)
+
 ✔ Task 1 — Data Ingestion (data_ingestion.py)
   Does:
     Reads all CSV files from the /data/ folder
